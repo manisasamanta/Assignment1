@@ -1,0 +1,4 @@
+text,options,categoryName
+What is Node.js?,"[{""text"": ""A JavaScript runtime"", ""isCorrect"": true}, {""text"": ""A Python library"", ""isCorrect"": false}]",Programming
+What is MongoDB?,"[{""text"": ""A NoSQL database"", ""isCorrect"": true}, {""text"": ""A SQL database"", ""isCorrect"": false}]",Database
+What is React?,"[{""text"": ""A JavaScript library"", ""isCorrect"": true}, {""text"": ""A CSS framework"", ""isCorrect"": false}]",Programming
